@@ -21,7 +21,7 @@ Dejo [Vagrant 101](http://codehero.co/como-instalar-y-configurar-vagrant/) y el 
 
 Les dejo una serie de post que ya habia mandado por mail, como para arrancar:
 
-- [MongoDB: que es, como funciona, y cuando usarlo o no](http://www.genbetadev.com/bases-de-datos/mongodb-que-es-como-funciona-y-cuando-- podemos-usarlo-o-no)
+- [MongoDB: que es, como funciona, y cuando usarlo o no](http://www.genbetadev.com/bases-de-datos/mongodb-que-es-como-funciona-y-cuando-podemos-usarlo-o-no)
 - [Insertando datos](http://www.genbetadev.com/bases-de-datos/mongodb-empezando-por-el-principio-insertando-datos)
 - [Operaciones de actualizacion simples](http://www.genbetadev.com/bases-de-datos/mongodb-la-vida-cambia-tus-datos-tambien-operaciones-de-actualizacion-simples)
 - [Actualizando subdocumentos y arrays](http://www.genbetadev.com/bases-de-datos/mongodb-la-vida-cambia-tus-datos-tambien-actualiza-subdocumentos-y-anade-datos-a-un-array)
