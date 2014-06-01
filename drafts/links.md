@@ -8,6 +8,13 @@ Ubicar los links a los gdoc y otros recursos web aquí con el siguiente **format
 
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+
+## Roadmap
+[Roadmap de investigación, general y por subgrupo](https://docs.google.com/spreadsheets/d/1ZKLpWA_RVWShLlEoccXwNpd-vAta9xmPdP-1avtj2go/edit)
+
+## Referecia bibliográfica
+[E-books](https://drive.google.com/?tab=mo&authuser=0#folders/0B6zTFMqBdW-0VXJpaE5SYjlxUlk)
+
 ## Vagrant
 [Vagrant](http://www.vagrantup.com/) es una herramienta para la creación y configuración de ambientes virtuales, es una muy buena forma de que todos compartamos ambientes equivalentes.
 Hay versiones para linux, windows y mac y también hay para elegir si usamos VBox o VMWare.
